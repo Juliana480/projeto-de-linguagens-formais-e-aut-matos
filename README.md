@@ -1,2 +1,2 @@
-# projeto-de-linguagens-formais-e-aut-matos
+# projeto de autmatos
 organização e finalização
